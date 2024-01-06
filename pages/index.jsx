@@ -5,6 +5,5 @@ function Index() {
     </div>
   );
 }
-a;
 
 export default Index;
