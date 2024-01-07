@@ -12,7 +12,7 @@ function Index() {
         </li>
 
         <li>
-          <Link href="/blogs/shit/dumb"> Place of ... </Link>
+          <Link href="/blog/shit/dumb"> Place of ... </Link>
         </li>
       </ul>
     </div>
